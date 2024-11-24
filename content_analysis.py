@@ -1,0 +1,2 @@
+class ContentAnalysis:
+    pass
